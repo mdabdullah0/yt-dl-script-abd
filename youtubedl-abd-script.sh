@@ -1,7 +1,14 @@
 #!/bin/bash
+
+### all ## are optional and can be ignored or disabled with #, 
+##enjoy,
+## from abdullah
+
 ###cd /home/abdullah/Videos/
 ###sudo nautilus /usr/local/bin
 ###sudo chmod a+rx /usr/local/bin/youtube-dl
+###sudo wget -L https://yt-dl.org/downloads/latest/youtube-dl -o /usr/local/bin/youtube-dl
+
 
 ####sudo gedit /etc/crontab
 ####10 2 * * * abdullah	/hd/data/cse-videos/youtube-dl-bash-scripts-abd-05112015.sh
@@ -78,7 +85,7 @@ exit
 ###########
 ###########
 ###########
-###########Scripting by abdullah for +++++++++++++++++++++IAS Preparation+++++++++++++++++++++
+###########Scripting by abdullah for +++++++++++++++++++++UPSC+++++++++++++++++++++
 ###########
 ###########
 ###########0
